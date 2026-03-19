@@ -31,7 +31,7 @@ To control what agents can see or access in osTicket:
 * Open the Permissions tab.
 * Adjust as needed to manage agent access.
 
-  |💡 Use Roles and Permissions carefully to maintain security and appropriate access levels within your support system.
+|💡 Use Roles and Permissions carefully to maintain security and appropriate access levels within your support system.
 
 
 
