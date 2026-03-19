@@ -19,6 +19,8 @@ Objectives
 
 Steps
 --------------------------
+1. Configure Roles and Permissions through the Admin tab.
+2. If it says Agent at the top right of your screen, you will know you are on the Admin tab. ~ * <img width="198" height="34" alt="image" src="https://github.com/user-attachments/assets/32338f39-8712-4042-97a1-61d90887c7bd" />
 
 
 
