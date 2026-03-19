@@ -117,7 +117,7 @@ Steps to Configure Agents:
            - Priority – set default urgency
            - SLA Plan – apply an SLA automatically
            - Auto-assign – select an agent or team
-          * Click Save Changes
+        *  Click Save Changes
         💡 Help Topics streamline ticket routing and ensure tickets go to the right team with the appropriate urgency.
 
       Your osTicket help system should now be functional, organized, and ready to tackle incoming requests.
