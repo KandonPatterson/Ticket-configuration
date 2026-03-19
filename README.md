@@ -9,7 +9,7 @@ Operating Systems Used
 * Windows 10 (21H2)
 
 Objectives
-
+---------------------
 * Configure Roles & Permissions
 * Configure Departments
 * Configure Teams
@@ -18,7 +18,7 @@ Objectives
 * Configure SLA and Help Topics
 
 Steps
-
+--------------------------
 
 
 
